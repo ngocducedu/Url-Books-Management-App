@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Nguyễn Hà Trang",
+        "tel": "0395494386",
+        "Permission": 1
+    },
+    {
+        "id":2,
+        "name":"Bùi Ngọc Đức",
+        "tel": "0969044569",
+        "Permission": 2
+    },
+    {
+        "id":3,
+        "name":"Nguyễn Văn Khôi",
+        "tel": "036985614",
+        "Permission": 3
+    },
+    {
+        "id":4,
+        "name":"Hồi Ngọc Linh",
+        "tel": "016895654",
+        "Permission": 2
+    },
+    {
+        "id":5,
+        "name":"Nguyễn Văn Thế",
+        "tel": "018698561",
+        "Permission": 2
+    }
+]
