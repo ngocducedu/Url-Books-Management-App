@@ -1,9 +1,18 @@
-Project Web App, Công nghệ sử dụng. ReactJs, Bootstrap, cơ sở dữ liệu, lưu trên local storage phía client, no back-end...
+**Project Web App, Công nghệ sử dụng. ReactJs, Bootstrap, cơ sở dữ liệu, lưu trên local storage phía client, no back-end...
 
 * Hướng dẫn cài đặt project:
   Yêu cầu cài đặt npm (NPM viết tắt của Node package manager là một công cụ tạo và quản lý các thư viện lập trình Javascript cho Node.js. ),
-  https://nodejs.org/en/
+  https://nodejs.org/en/,
   https://git-scm.com/ 
+  
+  * Tạo folder project mới
+  * Mở command prompt với đường dẫn thư mục project đã tạo
+  * Nhập các lệnh: git clone https://github.com/ngocducedu/Url-Books-Management-App.git  (để clone project về máy)
+  * cd Url-Books-Management-App (cd tới project mới clone)
+  * npm install  (cài đặt các gói thư viện cần thiết của project)
+  * npm start (khởi động project, project mặc định truy cập ở http://localhost:3000/)  
+  
+  
   
   
   
