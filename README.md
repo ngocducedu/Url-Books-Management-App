@@ -1,7 +1,7 @@
 * Project Web App, Công nghệ sử dụng. ReactJs, Bootstrap, cơ sở dữ liệu đểu đểu ;) lưu trên local storage phía client, no back-end...
 
   * Hướng dẫn cài đặt project chạy trên local (máy tính):
-    Yêu cầu cài đặt npm (NPM viết tắt của Node package manager là một công cụ tạo và quản lý các thư viện lập trình Javascript cho Node.js. ),
+    Yêu cầu cài đặt npm (NPM viết tắt của Node package manager là một công cụ tạo và quản lý các thư viện lập trình Javascript cho Node.js. ), Nodejs (là một nền tảng V8 JavaScript engine của Google - một trình thông dịch JavaScript cực nhanh)
     * Cài đặt nodejs và npm tại : https://www.npmjs.com/get-npm
     * Cài đặt Git(giúp quản lý mã nguồn) tại https://git-scm.com/ 
 
