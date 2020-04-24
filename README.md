@@ -7,7 +7,7 @@
   
   * Tạo folder project mới
   * Mở command prompt với đường dẫn thư mục project đã tạo
-  * Nhập các lệnh: git clone https://github.com/ngocducedu/Url-Books-Management-App.git  (để clone project về máy)
+  * Nhập các lệnh: git clone https://github.com/ngocducedu/Url-Books-Management-App.git  (để clone,download project về máy)
   * cd Url-Books-Management-App (cd tới project mới clone)
   * npm install  (cài đặt các gói thư viện cần thiết của project)
   * npm start (khởi động project, project mặc định truy cập ở http://localhost:3000/)  
