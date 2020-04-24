@@ -1,3 +1,19 @@
+Project Web App, Công nghệ sử dụng. ReactJs, Bootstrap, cơ sở dữ liệu, lưu trên local storage phía client, no back-end...
+
+* Hướng dẫn cài đặt project:
+  Yêu cầu cài đặt npm (NPM viết tắt của Node package manager là một công cụ tạo và quản lý các thư viện lập trình Javascript cho Node.js. ),
+  https://nodejs.org/en/
+  https://git-scm.com/ 
+  
+  
+  
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
